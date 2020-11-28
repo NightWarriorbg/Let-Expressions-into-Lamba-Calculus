@@ -1,8 +1,3 @@
--- comp2209 Functional Programming Challenges
--- (c) University of Southampton 2019
--- Sample tests by Andy Gravell, Julian Rathke
--- DO NOT RE-DISTRIBUTE OR RE-POST
-
 -- Import standard library and parsing definitions from Hutton 2016, Chapter 13
 -- and solutions to challenges
 
